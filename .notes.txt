@@ -1,0 +1,4 @@
+export PATH="$PATH:`pwd`/flutter/bin"
+
+export ANDROID_HOME=/usr/android-sdk
+export PATH=$PATH:$ANDROID_HOME/platform-tools
